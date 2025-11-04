@@ -59,12 +59,3 @@ Fine-tuning transformer-based models (DistilBERT, RoBERTa) for improved accuracy
 Multilingual sentiment analysis support
 
 Dashboard integration for live sentiment monitoring
-
-📦 Sentiment-Analysis-on-Customer-Reviews
-├── 📁 data/                # Dataset files
-├── 📁 notebooks/           # Jupyter notebooks for training & EDA
-├── 📁 models/              # Saved model and vectorizer
-├── 📜 app.py               # Gradio / Flask app
-├── 📜 requirements.txt     # Dependencies
-├── 📜 README.md            # Project documentation
-└── 📜 sentiment_model.pkl  # Trained model file
